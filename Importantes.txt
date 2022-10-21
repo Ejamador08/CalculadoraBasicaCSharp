@@ -1,0 +1,8 @@
+Muestra las opearciones básica de una calculadora
+simple a como son:
+suma
+resta
+multiplicación
+división
+potencia
+raíz cuadrada
